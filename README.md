@@ -3,6 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jos3duardo&show_icons=true&layout=compact&theme=gruvbox&langs_count=8&count_private=true " height="180em"/>
 </p>
 
+Coding Stats - Last 7 Days
 <!--START_SECTION:waka-->
 ```text
 TypeScript   3 hrs 40 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.20 % 
@@ -13,4 +14,3 @@ Other        1 hr 3 mins     ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jos3duardo&theme=gruvbox&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
