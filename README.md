@@ -12,3 +12,5 @@ YAML         1 hr 31 mins    ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Other        1 hr 3 mins     ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.80 % 
 ```
 <!--END_SECTION:waka-->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jos3duardo&theme=gruvbox&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
